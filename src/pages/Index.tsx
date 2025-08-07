@@ -76,7 +76,7 @@ const Index = () => {
           <div className="p-4">
             <LinkCard
               title="Join Official Group"
-              url="https://www.facebook.com/groups/ranonlineultima"
+              url="https://www.facebook.com/groups/ranonlinedigmaan"
               icon={<Users className="w-5 h-5" />}
             />
           </div>
