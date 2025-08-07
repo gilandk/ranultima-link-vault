@@ -4,7 +4,7 @@ import profileAvatar from "/lovable-uploads/f7da1319-4994-40ae-b4c4-7db95e3f0f8b
 export const ProfileHeader = () => {
   return (
     <div className="text-center space-y-4">
-      <Avatar className="w-24 h-24 mx-auto ring-2 ring-primary/30">
+      <Avatar className="w-32 h-32 mx-auto ring-2 ring-primary/30">
         <AvatarImage src={profileAvatar} alt="Ran Online Ultima" />
         <AvatarFallback className="bg-gradient-primary text-primary-foreground text-xl font-bold">
           ROU
