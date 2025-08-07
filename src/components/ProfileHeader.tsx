@@ -13,7 +13,7 @@ export const ProfileHeader = () => {
       
       <div>
         <h1 className="text-2xl font-bold gradient-text">
-          Ran Online Ultima
+          Ran Online Digmaan
         </h1>
         <p className="text-muted-foreground mt-1">
           Official Gaming Community
