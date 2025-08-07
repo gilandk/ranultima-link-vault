@@ -1,5 +1,5 @@
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
-import profileAvatar from "@/assets/profile-avatar.png";
+import profileAvatar from "/lovable-uploads/f7da1319-4994-40ae-b4c4-7db95e3f0f8b.png";
 
 export const ProfileHeader = () => {
   return (
