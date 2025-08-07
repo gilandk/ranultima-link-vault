@@ -66,7 +66,7 @@ const Index = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
             <div className="absolute bottom-4 left-4 right-4">
               <h3 className="text-lg font-bold text-foreground mb-1">
-                Ran Online Ultima
+                Ran Online Digmaan
               </h3>
               <p className="text-sm text-muted-foreground">
                 Official Group
